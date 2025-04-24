@@ -88,7 +88,7 @@ charge = 0
 multiplicity = 1
 # endregion
 
-molecule_type = "H4Square"  # Pilihan: "H2", "H4Square", "H4Linear"
+molecule_type = "H4Square"  # Choices: "H2", "H4Square", "H4Linear"
 
 basis = 'sto3g'
 # basis = 'sto6g'
